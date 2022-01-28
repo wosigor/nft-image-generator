@@ -1,8 +1,9 @@
 node_modules
 images/
+high-res-images
 trait-layers/
 high-res-traits/
 metadata/
 custom_images/
-.ipynb_checkpoints/
+.ipynb_checkpoints
 
