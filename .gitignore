@@ -5,5 +5,4 @@ trait-layers/
 high-res-traits/
 metadata/
 custom_images/
-.ipynb_checkpoints
-
+.ipynb_checkpoints/
